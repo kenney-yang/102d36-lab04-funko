@@ -1,2 +1,2 @@
 # 102d36-lab04-funko
-This is a Funko Pop site
+This is a Funko Pop Fan site

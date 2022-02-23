@@ -1,5 +1,7 @@
 body {
-background-color: bisque;
+background-color: rgb(192, 214, 233);
+margin: 0;
+
 }
 
 header {
@@ -25,3 +27,4 @@ li {
     list-style: none;
     display: 
 }
+
