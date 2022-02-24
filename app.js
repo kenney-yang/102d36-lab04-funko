@@ -9,7 +9,7 @@ let userName = "Kenney";
 console.log(userName);
 
 // At least one dynamic component should be based on user input.
-var myName = prompt("What is your name?");
+var myName = prompt("Welcome to Funkoland, what is your name?");
 console.log("myName: ", myName);
 
 // At least one dynamic component should use a conditional statement to determine the output.
