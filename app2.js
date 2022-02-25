@@ -7,5 +7,5 @@ let userResponse = prompt('Press ok if you own a Funko Pop?');
 if (userResponse == "yes") {
     document.write('<img src="' + spacePirateImg + '">');
 } else {
-    document.write("Code 102 Rocks!!")
+    document.write("Code 102 Rocks!!") 
 }
